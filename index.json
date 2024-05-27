@@ -1,5 +1,14 @@
 {
-    "bundles": {
-        "Liip\\ImagineBundle\\LiipImagineBundle": ["all"]
+    "recipes": {
+        "aropixel/admin-bundle": [
+            "1.0"
+        ]
+    },
+    "branch": "main",
+    "is_contrib": true,
+    "_links": {
+        "repository": "github.com/aropixel/admin-bundle-recipe",
+        "origin_template": "{package}:{version}@github.com/aropixel/admin-bundle-recipe:main",
+        "recipe_template": "https://api.github.com/repos/aropixel/admin-bundle-recipe/contents/{package_dotted}.{version}.json"
     }
 }
