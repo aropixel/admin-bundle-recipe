@@ -1,0 +1,14 @@
+{
+    "manifests": {
+        "aropixel/admin-bundle": {
+            "manifest": {
+                "bundles": {
+                    "Liip\\ImagineBundle\\LiipImagineBundle": [
+                        "all"
+                    ]
+                }
+            },
+            "ref": "a4d919daeddedd79ef6b9ec81aa9f737b9964a7c"
+        }
+    }
+}
